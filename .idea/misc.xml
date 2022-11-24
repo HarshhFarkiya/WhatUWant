@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DATAHARSH/WhatUWant3/app/src/main/res/drawable-v24/ic_baseline_rate_review_24.xml" value="0.2265" />
+        <entry key="..\:/DATAHARSH/WhatUWant3/app/src/main/res/drawable-v24/ic_baseline_settings_24.xml" value="0.2265" />
+        <entry key="..\:/DATAHARSH/WhatUWant3/app/src/main/res/drawable/shape.xml" value="0.2265" />
+        <entry key="..\:/DATAHARSH/WhatUWant3/app/src/main/res/layout/activity_abalibility.xml" value="0.1" />
+        <entry key="..\:/DATAHARSH/WhatUWant3/app/src/main/res/layout/activity_add_location.xml" value="0.1721311475409836" />
+        <entry key="..\:/DATAHARSH/WhatUWant3/app/src/main/res/layout/activity_admin.xml" value="0.1721311475409836" />
+        <entry key="..\:/DATAHARSH/WhatUWant3/app/src/main/res/layout/activity_delete_request.xml" value="0.1721311475409836" />
+        <entry key="..\:/DATAHARSH/WhatUWant3/app/src/main/res/layout/activity_hire.xml" value="0.128" />
+        <entry key="..\:/DATAHARSH/WhatUWant3/app/src/main/res/layout/activity_indore.xml" value="0.152" />
+        <entry key="..\:/DATAHARSH/WhatUWant3/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/DATAHARSH/WhatUWant3/app/src/main/res/layout/activity_main.xml" value="0.15163934426229508" />
+        <entry key="..\:/DATAHARSH/WhatUWant3/app/src/main/res/layout/activity_menu.xml" value="0.1721311475409836" />
+        <entry key="..\:/DATAHARSH/WhatUWant3/app/src/main/res/layout/activity_navigation_user.xml" value="0.1721311475409836" />
+        <entry key="..\:/DATAHARSH/WhatUWant3/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/DATAHARSH/WhatUWant3/app/src/main/res/layout/activity_track_application.xml" value="0.1721311475409836" />
+        <entry key="..\:/DATAHARSH/WhatUWant3/app/src/main/res/layout/activity_user_list.xml" value="0.1721311475409836" />
+        <entry key="..\:/DATAHARSH/WhatUWant3/app/src/main/res/layout/available_card.xml" value="0.11200000000000002" />
+        <entry key="..\:/DATAHARSH/WhatUWant3/app/src/main/res/layout/avalaible.xml" value="0.1721311475409836" />
+        <entry key="..\:/DATAHARSH/WhatUWant3/app/src/main/res/layout/dropdown_locality.xml" value="0.1721311475409836" />
+        <entry key="..\:/DATAHARSH/WhatUWant3/app/src/main/res/layout/dropdown_payment.xml" value="0.1721311475409836" />
+        <entry key="..\:/DATAHARSH/WhatUWant3/app/src/main/res/layout/nav_header.xml" value="0.1721311475409836" />
+        <entry key="..\:/DATAHARSH/WhatUWant3/app/src/main/res/layout/requests.xml" value="0.1721311475409836" />
+        <entry key="..\:/DATAHARSH/WhatUWant3/app/src/main/res/layout/user_req_list.xml" value="0.18984375" />
+        <entry key="..\:/DATAHARSH/WhatUWant3/app/src/main/res/menu/activity_main_drawer.xml" value="0.190625" />
+        <entry key="..\:/DATAHARSH/WhatUWant3/app/src/main/res/menu/nav_menu.xml" value="0.190625" />
+        <entry key="..\:/DATAHARSH/WhatUWant3/app/src/main/res/menu/navigation_user.xml" value="0.190625" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/WhatUWant3/app/src/main/res/drawable-v24/carpenter.xml" value="0.2375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/WhatUWant3/app/src/main/res/drawable/shape.xml" value="0.2665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/WhatUWant3/app/src/main/res/layout/activity_hire.xml" value="0.13496376811594202" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/WhatUWant3/app/src/main/res/layout/activity_login.xml" value="0.176" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/WhatUWant3/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/WhatUWant3/app/src/main/res/layout/activity_menu.xml" value="0.2" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/WhatUWant3/app/src/main/res/layout/activity_register.xml" value="0.19609375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

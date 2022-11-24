@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.whatuwant3">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/harsh"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/harsh"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.WhatUWant3">
+        <activity
+            android:name=".DeleteRequest"
+            android:exported="false" />
+        <activity
+            android:name=".Addlocation"
+            android:exported="false" />
+        <activity
+            android:name=".Track_application"
+            android:exported="false" />
+        <activity
+            android:name=".Navigation_user"
+            android:exported="true"
+            android:label="@string/title_activity_navigation_user"
+            android:theme="@style/Theme.WhatUWant3" />
+        <activity
+            android:name=".Userlist"
+            android:exported="false" />
+        <activity
+            android:name=".Admin"
+            android:exported="false" />
+        <activity
+            android:name=".Indore"
+            android:exported="false" />
+        <activity
+            android:name=".Abalibility"
+            android:exported="false" />
+        <activity
+            android:name=".Register"
+            android:exported="false" />
+        <activity
+            android:name=".Hire"
+            android:exported="false" />
+        <activity
+            android:name=".Login"
+            android:exported="false" />
+        <activity
+            android:name=".menu"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

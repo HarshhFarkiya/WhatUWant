@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "316130410123",
+    "firebase_url": "https://whatuwant-7017a-default-rtdb.firebaseio.com",
+    "project_id": "whatuwant-7017a",
+    "storage_bucket": "whatuwant-7017a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316130410123:android:a2ad8ca6bcd3bac6979e8e",
+        "android_client_info": {
+          "package_name": "com.example.whatuwant3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316130410123-b2dqe9vr0pn0rvos06jumm8u1rf5vlhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBFFVMtIKP3ZQV7Ic78sJK5jG9KiTMJQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316130410123-b2dqe9vr0pn0rvos06jumm8u1rf5vlhl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
